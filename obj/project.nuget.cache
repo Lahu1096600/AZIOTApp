@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EFLdjFZ8LbFg2LyYDpFteVURTlFCxxRMEog3lP29d81PGeszYMhus7TWm8g3UxOy5GVcd4ZZRjOyHcpd3WWsrg==",
+  "dgSpecHash": "nBoGOvtJ3o5R8hveBBA5SHAOPjhtqmrsJXCBUrllvef/pHROp0oVdwkqDSs1XzAA85HB7MzGsAjndCuQdEPhvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\vmadmin\\Source\\Repos\\Lahu1096600\\AZIOTApp\\AZIotApp.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\vmadmin\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
